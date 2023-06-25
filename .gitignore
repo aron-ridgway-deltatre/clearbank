@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/ClearBank.DeveloperTest/obj
+/ClearBank.DeveloperTest/bin/Debug/net6.0
+/ClearBank.DeveloperTest.Tests/bin/Debug/net6.0
+/ClearBank.DeveloperTest.Tests/obj
